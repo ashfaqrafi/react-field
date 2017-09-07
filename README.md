@@ -1,5 +1,3 @@
-<img src="public/images/mernjs.png" height="128" />
-
 MERNjs is a full-stack JavaScript open-source solution, which provides a solid starting point for [MongoDB](http://www.mongodb.org/), [ExpressJS](http://expressjs.com/), [ReactJS](http//facebook.github.io/react/) and [NodeJS](http://www.nodejs.org/) based applications. The idea is to solve the common issues with connecting those frameworks, build a robust framework to support daily development needs, and help developers use better practices while working with popular JavaScript components.
 
 ## Before You Begin
@@ -14,18 +12,6 @@ Make sure you have installed all of the following prerequisites on your developm
 * Git - [Download & Install Git](https://git-scm.com/downloads). OSX and Linux machines typically have this already installed.
 * Node.js - [Download & Install Node.js](https://nodejs.org/en/download/) and the npm package manager. If you encounter any problems, you can also use this [GitHub Gist](https://gist.github.com/isaacs/579814) to install Node.js.
 * MongoDB - [Download & Install MongoDB](http://www.mongodb.org/downloads), and make sure it's running on the default port (27017).
-
-## Downloading MERNjs
-Currently there is a single way you can get the MERNjs boilerplate:
-
-### Cloning The GitHub Repository
-The recommended way to get MERNjs is to use git to directly clone the MERNjs repository:
-
-```bash
-$ git clone https://github.com/IamMohaiminul/MERNjs MERNjs
-```
-
-This will clone the latest version of the MERNjs repository to a **MERNjs** folder.
 
 ## Running Your Application
 To run your application follow this steps.
