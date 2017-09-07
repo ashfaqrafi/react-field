@@ -1,0 +1,92 @@
+
+/*
+    @author: Kamal Sharif
+
+    @createdAt: 15.5.2017
+    @lastModified: 1.6.2017
+    @modifiedBy: Kamal Sharif
+*/
+
+.navbar-content {
+    height: 79px;
+    overflow: hidden;
+    background-color: #f0f5f8;
+    border-bottom: 0.5px solid #d2dce2;
+}
+
+.logo {
+    padding-left: 35px;
+    line-height: 79px;
+}
+
+.logo-text {
+    font-size: 16px;
+    font-weight: 500;
+    color: #212020;
+}
+
+.logo-text:hover,
+.logo-text:focus {
+    color: #212020;
+    text-decoration: none;
+}
+
+.notifications,
+.profile {
+    display: inline-block;
+}
+
+.notifications {
+    padding: 0 25px;
+    line-height: 79px;
+    border-right: 0.5px solid #d2dce2;
+    border-left: 0.5px solid #d2dce2;
+}
+
+.notification-icon {
+    position: relative;
+    display: inline-block;
+    margin-right: 9px;
+}
+
+.notification-icon > img {
+    height: 17px;
+}
+
+.notification-number {
+    position: absolute;
+    top: 25px;
+    right: -6px;
+    z-index: 10;
+    padding: 2px 4px;
+    font-size: 9px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #21b0b2;
+    border: 1px solid #f0f5f8;
+}
+
+.notification-text {
+    font-size: 12px;
+    font-weight: 500;
+    color: #6e7070;
+}
+
+.profile {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.profile-photo {
+    height: 32px;
+    width: 32px;
+}
+
+.profile-photo > img {
+    width: 100%;
+    border-radius: 100%;
+}
+
+.fn-navbg{
+  background-color: #292929;
+}

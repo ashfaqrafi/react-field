@@ -1,0 +1,33 @@
+@import './vendor/vendor';
+
+@import './utility/utils';
+
+@import './base/font';
+@import './base/base';
+
+@import './layouts/navbar';
+@import './layouts/steps';
+@import './layouts/step-wrapper';
+@import './layouts/step-mainpage';
+@import './layouts/step-sidebar';
+@import './layouts/step-footer';
+
+@import './components/button';
+@import './components/form';
+@import './components/select2';
+@import './components/modal';
+@import './components/step-one';
+@import './components/step-two';
+@import './components/step-three';
+@import './components/step-four';
+@import './components/step-five';
+@import './components/step-six';
+@import './components/dashhome';
+@import './components/react-slider';
+@import './components/spinner';
+@import './components/profile';
+@import './components/smallcomponents';
+@import './student/components/studentfeedback.css';
+@import './student/components/WelcomeBack.css';
+@import './student/components/TabBar.css';
+@import './student/components/StudentDashboardBody.css';
